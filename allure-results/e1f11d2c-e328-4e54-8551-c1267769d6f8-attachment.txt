@@ -1,0 +1,28 @@
+{
+  bookingid: 2611,
+  booking: {
+    firstname: 'Rivita Anggun',
+    lastname: 'Octaviani',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'Playwright'
+  }
+}
+{
+  firstname: 'Rivita Anggun',
+  lastname: 'Octaviani',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'Playwright'
+}
+Token No is : b3c4ed9c7bb3e18
+{
+  firstname: 'Rivita Anggun Octaviani',
+  lastname: 'Octaviani',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'Playwright'
+}

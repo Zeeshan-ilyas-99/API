@@ -1,0 +1,19 @@
+{
+  bookingid: 3610,
+  booking: {
+    firstname: 'Rivita Anggun',
+    lastname: 'Octaviani',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'Playwright'
+  }
+}
+[
+  { bookingid: 3591 },
+  { bookingid: 3573 },
+  { bookingid: 3578 },
+  { bookingid: 3570 },
+  { bookingid: 3610 },
+  { bookingid: 3602 }
+]
